@@ -16,9 +16,9 @@ import run from './run';
 // GitHub Pages
 const remote = {
   name: 'github',
-  url: 'https://github.com/LizardTeam/Proton.git',
+  url: 'https://github.com/maab2198/Proton.git',
   branch: 'gh-pages',
-  website: 'https://LizardTeam.github.io/Proton/',
+  website: 'https://<user>.github.io/<repo>/',
   static: true,
 };
 
